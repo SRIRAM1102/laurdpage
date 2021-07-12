@@ -1,0 +1,134 @@
+
+  .new{
+  
+    margin: 1px;
+    margin-left: 10%;
+    font-size: 110%;
+ 
+} 
+.two
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color:#212529;
+    color: lightgrey;
+    height: 650px;
+}
+.three
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7%;
+    float: right;
+   
+}
+.ake
+{
+    margin-left: 1px;
+    margin-right: 50px;
+}
+
+.text
+{
+    text-align:left;
+    
+}
+.img{
+    width: 70%;
+    margin-top: 34px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.but
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    margin-right: 20px;
+    
+}
+.vid
+{
+    margin-left: 1%;
+}
+.book
+{
+    margin-left: 1%;
+}
+.quot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#212529;
+    color: lightgrey;
+    height: 150px;
+    margin-top: 3%;
+    font-style: italic;
+    padding-right: 30px;
+    padding-right: 50px;
+}
+.award
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    margin-right: 20px;
+  
+}
+.crd{
+    display: flex;
+    flex-direction: row;
+}
+.foot
+{
+    background-color:#212529;
+    color: lightgrey;
+    height: 200px;
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+    
+
+}
+.awards{
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-right: 50px;
+  }
+  .awards-container
+  {
+      margin-left: 70px;
+    
+  }
+  .awards:before,.awards:after{
+    content: "";
+    flex: 1 1;
+    border-bottom: 1px solid lightgray;
+    margin: auto;
+  }
+  .awards:before {
+    margin-right: 10px
+  }
+.awards:after {
+    margin-left: 10px
+  }
+  .vl {
+    
+    border-left: 1px solid rgba(255, 255, 255, 0.2);
+    height: 100px;
+ 
+}
+.des{
+    margin-top: 3%;
+   
+}
