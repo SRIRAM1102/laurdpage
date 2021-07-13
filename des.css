@@ -87,17 +87,16 @@
     display: flex;
     flex-direction: row;
 }
+.cont{
+   color: darkgray;
+}
+
 .foot
 {
     background-color:#212529;
     color: lightgrey;
-    height: 200px;
-    margin-top: 3%;
-    display: flex;
-    justify-content: center;
-    
-
-}
+     margin-top: 3%;
+ }
 .awards{
     display: flex;
     flex-direction: row;
